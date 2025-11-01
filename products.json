@@ -26,5 +26,12 @@
     "price": 45000,
     "description": "EFEK BUG: DELAY.DELAY INVISIBLE.CRASH UI.BLANK UI.CRASH UI.BUG GROUP;BISA MALING SENDER LEWAT ADP.ENC FILE/HTML.TRACKIP.DLL",
     "category": "Produk"
+  },
+  {
+    "id": 5,
+    "name": "RESELLER SC OTAX",
+    "price": 55000,
+    "description": "BOLEH SELL SC OTAX",
+    "category": "Produk"
   }
 ]
