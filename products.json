@@ -12,5 +12,12 @@
     "price": 5000,
     "description": "ANTI DELAY.ANTI INTIP.ANTI MALING SC.ANTI RUSUH.BERGARANSI SAMPAI 15 HARI",
     "category": "Produk"
+  },
+  {
+    "id": 3,
+    "name": "ADP PRIVATE (Pake Protection)",
+    "price": 7000,
+    "description": "BISA JUAL PANEL.BISA BUAT PANEL SEPUASNYA.PASTI DIURUS.ADP PERMANEN",
+    "category": "Produk"
   }
 ]
