@@ -33,5 +33,12 @@
     "price": 55000,
     "description": "BOLEH SELL SC OTAX",
     "category": "Produk"
+  },
+  {
+    "id": 6,
+    "name": "UBOT 1 BULAN",
+    "price": 5000,
+    "description": "Animasi.auto forward.Play music dan video.Download Tiktok dan Insta.Remini;HD;QRcode.Remove Background.Button;tourl;Sticker.Brat Sticker dan Video.New Autobc 24 Jam",
+    "category": "Produk"
   }
 ]
