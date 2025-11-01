@@ -2,8 +2,15 @@
   {
     "id": 1,
     "name": "PT VIP",
-    "price": 15000,
+    "price": 15,
     "description": "DAPAT BANYAK FUNC.BANYAK BASE.DAPAT BANYAK HTML.DAPAT TUTOR PASANG DB SC DAN FUNC.DAPAT BANYAK RESELLER SCRIPT.DAN BANYAK TOOLS.DLL",
+    "category": "Produk"
+  },
+  {
+    "id": 2,
+    "name": "PANEL UNLI PRIVATE",
+    "price": 5000,
+    "description": "ANTI DELAY.ANTI INTIP.ANTI MALING SC.ANTI RUSUH.BERGARANSI SAMPAI 15 HARI",
     "category": "Produk"
   }
 ]
