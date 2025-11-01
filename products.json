@@ -7,13 +7,6 @@
     "category": "Paket"
   },
   {
-    "id": 2,
-    "name": "Paket Premium B",
-    "price": 50000,
-    "description": "Paket premium dengan kualitas terbaik",
-    "category": "Paket"
-  },
-  {
     "id": 8,
     "name": "PT VIP",
     "price": null,
