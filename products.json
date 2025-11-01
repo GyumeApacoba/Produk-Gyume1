@@ -47,5 +47,12 @@
     "price": 30000,
     "description": "Produk digital dengan akses instan",
     "category": "Digital"
+  },
+  {
+    "id": 8,
+    "name": "PT VIP",
+    "price": null,
+    "description": "DAPAT BANYAK FUNC.BANYAK BASE.DAPAT BANYAK RESELLER SCRIPT.DAN BANYAK TOOLS.DLL",
+    "category": "DIGITAL"
   }
 ]
