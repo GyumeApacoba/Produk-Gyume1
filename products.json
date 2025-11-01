@@ -47,12 +47,5 @@
     "price": 30000,
     "description": "Produk digital dengan akses instan",
     "category": "Digital"
-  },
-  {
-    "id": 8,
-    "name": "kondom duda",
-    "price": 1000,
-    "description": "kondom premium",
-    "category": "kondom"
   }
 ]
