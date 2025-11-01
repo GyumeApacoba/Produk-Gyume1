@@ -14,13 +14,6 @@
     "category": "Paket"
   },
   {
-    "id": 3,
-    "name": "Paket Exclusive C",
-    "price": 75000,
-    "description": "Paket exclusive dengan bonus spesial",
-    "category": "Paket"
-  },
-  {
     "id": 8,
     "name": "PT VIP",
     "price": null,
