@@ -835,7 +835,7 @@
         document.getElementById('transactionId').textContent = currentTransaction.id;
         document.getElementById('pendingPayment').textContent = currentTransaction.paymentMethod.toUpperCase();
         document.getElementById('paymentDetails').textContent = currentTransaction.paymentMethod === 'dana'
-            ? '081234567890 (DANA)'
+            ? 'Minta ke @Gyumemek (DANA)'
             : 'QRIS Code';
         showSection('pending');
     }
