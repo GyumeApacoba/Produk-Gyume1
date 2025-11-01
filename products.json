@@ -35,13 +35,6 @@
     "category": "Produk"
   },
   {
-    "id": 6,
-    "name": "Produk Limited F",
-    "price": 200000,
-    "description": "Produk limited edition yang langka",
-    "category": "Produk"
-  },
-  {
     "id": 8,
     "name": "PT VIP",
     "price": null,
