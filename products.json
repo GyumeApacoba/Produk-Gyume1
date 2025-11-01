@@ -28,13 +28,6 @@
     "category": "Paket"
   },
   {
-    "id": 5,
-    "name": "Produk Spesial E",
-    "price": 150000,
-    "description": "Produk spesial dengan kualitas premium",
-    "category": "Produk"
-  },
-  {
     "id": 8,
     "name": "PT VIP",
     "price": null,
