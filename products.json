@@ -1,3 +1,16 @@
 [
-  {}
+  {
+    "id": 8,
+    "name": "PT VIP",
+    "price": null,
+    "description": "DAPAT BANYAK FUNC.BANYAK BASE.DAPAT BANYAK RESELLER SCRIPT.DAN BANYAK TOOLS.DLL",
+    "category": "DIGITAL"
+  },
+  {
+    "id": 9,
+    "name": "PT VIP",
+    "price": 15,
+    "description": "DAPAT BANYAK FUNC.BANYAK BASE.DAPAT BANYAK HTML.DAPAT TUTOR PASANG DB SC DAN FUNC.DAPAT BANYAK RESELLER SCRIPT.DAN BANYAK TOOLS.DLL",
+    "category": "Produk"
+  }
 ]
