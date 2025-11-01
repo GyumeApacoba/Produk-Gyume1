@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "PT VIP",
-    "price": 15,
+    "price": 15000,
     "description": "DAPAT BANYAK FUNC.BANYAK BASE.DAPAT BANYAK HTML.DAPAT TUTOR PASANG DB SC DAN FUNC.DAPAT BANYAK RESELLER SCRIPT.DAN BANYAK TOOLS.DLL",
     "category": "Produk"
   },
@@ -18,6 +18,13 @@
     "name": "ADP PRIVATE (Pake Protection)",
     "price": 7000,
     "description": "BISA JUAL PANEL.BISA BUAT PANEL SEPUASNYA.PASTI DIURUS.ADP PERMANEN",
+    "category": "Produk"
+  },
+  {
+    "id": 4,
+    "name": "SC OTAX FULL UP",
+    "price": 45000,
+    "description": "EFEK BUG: DELAY.DELAY INVISIBLE.CRASH UI.BLANK UI.CRASH UI.BUG GROUP;BISA MALING SENDER LEWAT ADP.ENC FILE/HTML.TRACKIP.DLL",
     "category": "Produk"
   }
 ]
