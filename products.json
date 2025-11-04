@@ -31,7 +31,7 @@
     "id": 5,
     "name": "RESELLER SC OTAX",
     "price": 55000,
-    "description": "BISA SELL SC OTAX FULL UP",
+    "description": "BOLEH SELL SC OTAX",
     "category": "Produk"
   },
   {
@@ -53,6 +53,13 @@
     "name": "SC GACHA",
     "price": 10000,
     "description": "SC GACHA YANG MEMILIKI BANYAK FITUR PREVIEW: @GyumeGacha_Bot",
+    "category": "Produk"
+  },
+  {
+    "id": 9,
+    "name": "VPS R16 C4",
+    "price": 15000,
+    "description": "FREE INSTALL.FREE INSTALL TEMA.FREE REQ DOMAIN.FREE INSTALL PROTECT/NO",
     "category": "Produk"
   }
 ]
